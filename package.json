@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "honkit": "^4.0.4"
+    "honkit": "^4.0.4",
+    "prettier-plugin-md-nocjsp": "^1.5.1"
+  },
+  "dependencies": {
+    "prettier": "^2.8.4"
   }
 }

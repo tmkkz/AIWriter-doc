@@ -1,4 +1,15 @@
 # Summary
 
-* [はじめに](00_preface/README.md)
-
+- [はじめに](00_preface/README.md)
+- [AIWriterとは？](01_whatsAiWriter/whatsAiWriter.md)
+- [準備](02_prepare/01_prepare.md)
+  - [ChatGPT](02_prepare/02_chatGpt.md)
+  - [WordPress](02_prepare/03_wordPress.md)
+- [サインイン](03_signin/signin.md)
+- [設定](04_settings/settings.md)
+- [WordPress登録](05_register/resister.md)
+- [記事作成](06_createPost/01_step.md)
+  - [ChatGPT](06_createPost/01_chatGpt.md)
+  - [編集](06_createPost/02_edit.md)
+  - [投稿](06_createPost/03_post.md)
+  - [完了](06_createPost/04_done.md)
