@@ -64,7 +64,7 @@ WordPressの管理画面にログインし、左サイドメニューから「�
 行が見つかりましたら、その下に
 
 ```php
-difine('JWT_AUTH_SECRET_KEY','あなたが決める文字列ｰ何でも良いですが必ず変更してください。');
+define('JWT_AUTH_SECRET_KEY','あなたが決める文字列ｰ何でも良いですが必ず変更してください。');
 define('JWT_AUTH_CORS_ENABLE', true);
 ```
 

@@ -87,14 +87,53 @@ SMSで送信されてきたコードを入力します。
 
 <br >
 
+### 9. API Keyの取得
+
+最後にAPI Keyを取得します。
+
+[https://openai.com/](https://platform.openai.com/account/api-keys/)へアクセスし、ログインをクリックします。。
+
+![ChatGpt12a](../images/00_chatGPT/00_chat20.png)
+
+アカウント作製時に使用した方法で、ログインします。
+
+![ChatGpt12b](../images/00_chatGPT/00_chat21.png)
+
+ログインすると、自分のダッシュボードページが開きます。左サイドメニューの「API Keys」を選択し、「Create new secret key」をクリックします。
+
+![ChatGpt13](../images/00_chatGPT/00_chat22.png)
+
+API keyが作成され表示します。右側のコピーボタンをクリックするとキーをコピーできます。「OK」ボタンをクリックして閉じてしまうと、このキーを再度見ることはできません。
+
+![ChatGpt16](../images/00_chatGPT/00_chat16.png)
+
+新しく作成した場合に古いキーを使わない場合には、悪用されないためにも削除ボタンで使えないキーは削除しましょう。
+
+![ChatGpt17](../images/00_chatGPT/00_chat17.png)
+
+### 10. 課金について
+
+ChatGPTは、ブラウザで直接[https://chat.openai.com/chat](https://chat.openai.com/chat)にアクセスして使用する場合は、現在（2023年3月18日）は無料です。
+
+しかし、API Keyでアクセスする場合は有料となります。
+
+アカウントを作成すると、3か月有効な＄18のクレジットが付与されます。
+
+![ChatGpt23](../images/00_chatGPT/00_chat23.png)
+
+しばらくは、このクレジットを使用するのが良いかと思います。
+
 ### 9. ChatGPT 画面の表示と ChatGPT Plus へアップグレード
 
 Chatのできる画面になります。
 
 ![ChatGpt10](../images/00_chatGPT/00_chat10.png)
 
-ChatGPTは無料ですとピーク時には繋がりません。また、APIで外部アプリケーションからの質問には無料ですと数文字しか回答がありません。
-そのため、月額20ドルのChatGPT Plusに加入します。
+ChatGPTは無料ですとピーク時には繋がりません。また、無料の場合にはChatGPT−4などの最新モデルは使えません。そのため、快適に使いたい、最新機能を使いたい場合は、ChatGPT Plusの月額定額サービスをオススメします。
+
+ただし、最新モデルのAPI Keyは申請し、ウェイティングリストから使用可能になるまで待たないといけません。AI Writerはできる限り最新モデルの搭載を行いますが、私に使用許可が出るまではテストができません。
+
+また、私に使用許可で出て実装しても、使用するあなたに使用許可が出ていない場合にはエラーになります。
 
 <br />
 
@@ -118,35 +157,3 @@ ChatGPT Plusの特徴は以下となります。
 ![ChatGpt12](../images/00_chatGPT/00_chat12.png)
 
 <br />
-
-### 10. API Keyの取得
-
-最後にAPI Keyを取得します。
-
-[https://openai.com/](https://openai.com/)へアクセスし、右上にあるメニューをクリックします。表示されたメニューから「Log in」をクリックします。
-
-![ChatGpt12a](../images/00_chatGPT/00_chat12a.png)
-
-アカウント作製時に使用した方法で、ログインします。
-
-![ChatGpt12b](../images/00_chatGPT/00_chat12b.png)
-
-ログインすると、自分のダッシュボードページが開きます。右上のパーソナルをクリックします。
-
-![ChatGpt13](../images/00_chatGPT/00_chat13.png)
-
-開いたメニューから、「View API keys」をクリックします。
-
-![ChatGpt14](../images/00_chatGPT/00_chat14.png)
-
-API keysのページが開きます。「+ Create new secret key」ボタンをクリックします。
-
-![ChatGpt15](../images/00_chatGPT/00_chat15.png)
-
-API keyが作成され表示します。右側のコピーボタンをクリックするとキーをコピーできます。「OK」ボタンをクリックして閉じてしまうと、このキーを再度見ることはできません。
-
-![ChatGpt16](../images/00_chatGPT/00_chat16.png)
-
-コピーを消した場合などは、再作成し悪用されないためにも削除ボタンで使えないキーは削除しましょう。
-
-![ChatGpt17](../images/00_chatGPT/00_chat17.png)
