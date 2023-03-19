@@ -123,7 +123,7 @@ ChatGPTは、ブラウザで直接[https://chat.openai.com/chat](https://chat.op
 
 しばらくは、このクレジットを使用するのが良いかと思います。
 
-### 9. ChatGPT 画面の表示と ChatGPT Plus へアップグレード
+### 11. ChatGPT 画面の表示と ChatGPT Plus へアップグレード
 
 Chatのできる画面になります。
 
